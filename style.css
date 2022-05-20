@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-image: url('green-bgg.jpg');
+    background-size: cover;
+}
+
+.container h1{
+    color: goldenrod;
+}
+
+.container span{
+    font-weight: bold;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+
+.container button{
+    color: #016f32;
+    background: goldenrod;
+    border: none;
+    margin-bottom: 5px;
+    font-weight: bold;
+    width: 180px;
+    border-radius: 2px;
+    padding: 5px;
+}
+
